@@ -1,2 +1,2 @@
 # SSW810
-This repository is used to manage python lab work.
+This repository is use to manage python lab work.
